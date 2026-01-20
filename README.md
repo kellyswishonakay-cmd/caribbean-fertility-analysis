@@ -36,3 +36,6 @@ Guyana, Haiti,Jamaica, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the
 Antigua & Barbuda • The Bahamas • Barbados • Cuba • Dominica • Dominican Republic • Grenada • Guyana • Haiti • Jamaica • Saint Kitts & Nevis • Saint Lucia • Saint Vincent & the Grenadines • Trinidad & Tobago
 
 ---
+## Visualizations
+![Line Graph-Fertility Rate Across the Caribbean](https://github.com/kellyswishonakay-cmd/caribbean-fertility-analysis/blob/main/Screenshot%202026-01-19%20190910.png)
+![Bar Graph-Fertility Rate Across the Caribbean](https://github.com/kellyswishonakay-cmd/caribbean-fertility-analysis/blob/main/Screenshot%202026-01-19%20190846.png)
