@@ -11,7 +11,7 @@
 
 ## Analysis summary  
 The chart plots the total fertility rate for 14 Caribbean countries(Antigua and Barbuda,The Bahamas,Barbados,Cuba, Dominica, Dominican Republic, Grenada,
-Guyana, Haiti,Jamaica, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago 
+Guyana, Haiti,Jamaica, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, and Trinidad and Tobago 
 
 ---
 
